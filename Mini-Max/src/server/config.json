@@ -1,0 +1,12 @@
+{
+  "map": "11.txt",
+  "probabilities_xlsx": "1.xlsx",
+  "server_ip": "127.0.0.1",
+  "server_port": 9921,
+  "player_count": 2,
+  "time_out": 2,
+  "init_score": 0,
+  "turn_count": 100,
+  "init_random_location": false,
+  "round_repeat": 1
+}

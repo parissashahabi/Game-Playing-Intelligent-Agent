@@ -1,0 +1,10 @@
+.idea
+validations
+venv/
+__init__.py
+__pycache__
+test.py
+outs.txt
+src/server/outs.txt
+src/server/game_logs/*.json
+src/python_client/images/*.jpg
