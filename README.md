@@ -5,13 +5,13 @@ This repository contains Python implementations of various reinforcement learnin
 ## Directory Structure
 
 ### Markov Decision Process
-The `Markov Decision Process` directory (`Markov Decision Process/src/python_client`) includes code for a 2D grid world Markov Decision Process with Value Iteration implementation.
+The [`Markov Decision Process`](Markov%20Decision%20Process/src/python_client) directory includes code for a 2D grid world Markov Decision Process with Value Iteration implementation.
 
 ### Mini-Max
-The `Mini-Max` directory (`Mini-Max/src/python_client`) encompasses the Python implementation of the Mini-Max algorithm. Mini-Max is a decision-making algorithm commonly used in two-player games, aiming to minimize the possible loss for a worst-case scenario.
+The [`Mini-Max`](Mini-Max/src/python_client) directory encompasses the Python implementation of the Mini-Max algorithm. Mini-Max is a decision-making algorithm commonly used in two-player games, aiming to minimize the possible loss for a worst-case scenario.
 
 ### Path Planning
-The `Path-Planning` directory (`Path Planning/src/python_client`) houses Python implementations of common path-planning techniques. This includes A*, Dijkstra, and bidirectional search algorithms designed to find the optimal paths in the grid world.
+The [`Path-Planning`](Path-Planning/src/python_client) directory houses Python implementations of common path-planning techniques. This includes A*, Dijkstra, and bidirectional search algorithms designed to find the optimal paths in the grid world.
 
 ## Requirements
 Make sure to install the required Python packages using the following command:
