@@ -1,6 +1,6 @@
 # Reinforcement Learning and Path Planning for 2D Grid World
 
-This repository contains Python implementations of various reinforcement learning algorithms, including Value-Iteration and Q-Learning, applied to a 2D grid world Markov Decision Process (MDP) reminiscent of a Pac-Man game. Additionally, the repository includes the Mini-Max algorithm and common path-planning techniques such as A*, Dijkstra, and bidirectional search.
+This repository contains Python implementations of various reinforcement learning algorithms, including Value-Iteration and Q-Learning, applied to a 2D grid world Markov Decision Process (MDP) that resembles a Pac-Man game. Additionally, the repository includes the Mini-Max algorithm and common path-planning techniques such as A*, Dijkstra, and bidirectional search.
 
 ## Directory Structure
 
